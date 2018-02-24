@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/5800726/34326440-f342bf66-e8d1-11e7-90e0-ea611a07f117.png)
 
-> A **Chrome Extension** for connecting with **@fossasia** :rocket:
+> A **Chrome and Firefox Extension** for connecting with **@fossasia** :rocket:
 
 
 ## Current Prototype :
@@ -27,19 +27,15 @@
 
 #### Installation : 
 
-The **StarFOSS Chrome Extension** can be easily deployed on all of the Chrome versions. **Installation instructions** have been provided below.
+The **StarFOSS Chrome and Firefox Extension** can be easily deployed on all of the Chrome and Firefox versions. **Installation instructions** have been provided below.
 
 * **[Local Installation](/Releases/StarFOSS/installation.md)**
 
 ## To-Do List :
 
-* ***Enhancing `onclick()` buttons.***
-* Adding an in-built **Subscribe** button.
-* Integrating Orgmanager's`REST API` for direct Membership.
+- [x] ***Enhancing `onclick()` buttons.***
+- [ ] Adding an in-built **Subscribe** button.
+- [ ] Integrating Orgmanager's`REST API` for direct Membership.
 > *Reference : https://github.com/orgmanager/php-orgmanager-api*
 
-* ***(Major) :*** Integrating **Twitter, Facebook, Youtube, LinkedIn API** for Following, Liking, and Pinning respective **FOSSASIA Channels**.
-
----
-
-* *(more features/enhancements will be added soon)* :tada:
+- [ ] Integrating **Twitter, Facebook, Youtube, LinkedIn API** for Following, Liking, and Pinning respective **FOSSASIA Channels**.
